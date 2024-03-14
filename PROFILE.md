@@ -1,2 +1,1 @@
-learning programming. 
-Have a nice day.
+Welcome to my GitHub profile!
